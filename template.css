@@ -1,0 +1,318 @@
+*{
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+.container-fluid{
+    background-image:url("images/pic1.jpg");
+    height:160%;
+   background-size:contain ;
+   background-position: top bottom;
+}
+.container{
+    background-image:url("images/pic1.jpg");
+}
+a{
+    text-decoration: none;
+    font-size:150%;
+    font-weight: bolder;
+    color: red;
+    text-align: center;
+}
+
+#h, #logo{
+    overflow: hidden;
+}
+ h2{
+    font-size: 170%;
+    font-weight: bolder;
+    color: chocolate;
+    text-align: center;
+ }
+
+  .abt, .pro, .head1{
+      color:black ;
+      overflow: hidden;
+    }  
+ #h1{
+     padding-top: 55px;
+ }
+ .container1{
+  height:40%;
+   background:white
+}
+ .abt, .pro, .test{
+     font-weight: bold;
+     color:rgb(72 63 63);
+     padding-top: 5%;
+    }
+ .p2{
+     text-align: center;
+     font-size: 18px;
+     padding-top:30px;
+ }
+ #a{
+     width: 100%;
+     margin: auto;
+     padding:5% 0;
+}
+ .typo{
+  width: 60%;
+  border: 1px rgb(208 67 67);;
+  background:rgb(208 67 67);;
+  color: white;
+  text-align: center;
+  margin:4px 0 ;
+ 
+ }
+ .design{
+    width: 75%;
+    border: 1px rgb(106 176 232);
+    background:rgb(106 176 232);;;
+    color: white;
+    text-align: center;
+    margin:4px 0 ;
+   }
+   .devp{
+    width: 86%;
+    border: 1px rgb(72 179 169);
+    background:rgb(72 179 169);;;
+    color: white;
+    text-align: center;
+    margin:4px 0 ;
+   }
+   h5{
+       text-align: center;
+       overflow: hidden;
+      }
+   .container2{
+      height:130%;
+    background: rgb(192 182 182);;
+}
+.photo{
+    padding-top: 6%;
+    width:100%;
+}
+.container3{
+    height: 130%;
+    background: rgb(135 6 157);
+    margin-top: -3px;
+   text-align: center;
+   
+  
+}
+.test{
+    overflow: hidden;
+    padding: 20px;
+    color: white;
+ }
+ #pic{
+     text-align: center;
+     padding-bottom: 30px;
+ }
+ #txt{
+     font-size: 15px;
+     font-weight: bold;
+     color: white;
+     text-align: center;
+ }
+ #name{
+     font-size:20px;
+     color:chartreuse;
+     font-weight: bold;
+     text-align: center;
+ }
+ .container4{
+     width: 100%;
+     margin: auto;
+    height: 130%;
+    background:white;
+   
+}
+.ser{
+    padding-top: 30px;
+    color: black;
+    overflow: hidden;
+}
+#ser{
+    font-size: 16px;
+    overflow: hidden;
+}
+.title{
+    overflow: hidden;
+    color: orangered;
+    font-weight: bold;
+    
+}
+.sub{
+    font-weight: bold;
+}
+#type{
+  text-align:center;
+    padding-top: 40px;
+    margin: auto;
+}
+i{
+    font-size:23px;
+    color:rgb(19, 133, 226);
+}
+.container5{
+    width: 100%;
+    margin: auto;
+   height: 130%;
+   background:rgb(54, 51, 51);
+   padding-bottom:50px;
+  
+}
+.blog{
+    padding-top: 30px;
+    color:white;
+    overflow: hidden;
+}
+#blog{
+    font-size: 16px;
+    overflow: hidden;
+    color: wheat;
+}
+.b3{
+    text-align:center;
+    padding-top:40px;
+}
+.b4{
+    border-radius:5px;
+    font-size: 20px;
+    background: gold;
+    color: white;
+    width:15%;
+}
+#collage{
+   text-align: center;
+    margin:auto;
+    overflow: hidden;
+    padding-top: 30px;
+ }
+  .sec{
+    
+    height:50%;
+    text-align: center;
+    overflow: hidden;
+    background-color: white;
+  }
+ h3{
+      overflow: hidden;
+      color: black;
+  }
+  .sec2{
+      font-weight: bold;
+      padding-top: 20px;
+  }
+  .des{
+      font-weight: lighter;
+     padding-top: 30px;
+      color: black;
+    
+  }
+  .ext{
+      
+      color:blue;
+  }
+  .container6{
+      background: rgba(200, 231, 21, 0.829);
+      width: 100%;
+      margin: auto;
+     height: 130%;
+  }
+  #num, #char, #ten{
+      margin: auto;
+      text-align: center;
+      padding-top: 40px;
+  }
+.one{
+    font-size: 80px;
+    font-weight: bold;
+}
+.two{
+    font-size: 30px;
+}
+.container7, .container8, .container9, .container10{
+    background: rgba(173, 162, 162, 0.829);
+    width: 100%;
+    margin: auto;
+   height: 130%;
+   padding-bottom:50px;
+}
+#team{
+    margin: auto;
+      text-align: center;
+      padding-top: 40px;
+}
+.head2{
+    color:palegoldenrod;
+    font-size: 20px;
+}
+.profile{
+   margin:auto;
+    text-align: center;
+    padding-top: 80px;
+}
+h6{
+    overflow: hidden;
+}
+.name1{
+    color:orangered;
+}
+.proff{
+    color:chartreuse
+}
+.att{
+    color: darkblue;
+}
+ .container8, .container9{
+     background: white;
+    }
+ .ad{
+     font-size: 22px;
+     color:brown;
+     font-weight: bold;
+ }
+ .adding{
+     color:rgb(51, 45, 45);
+     font-weight: bold;
+ }
+ input{
+     width:80%;
+ }
+ .area{
+   
+     margin:0 40px;
+     padding-top: 20px;
+    }
+    textarea{
+        width: 100%;
+        padding: 10%;
+       
+    }
+    #but{
+        margin-left: -27px;
+    }
+   .li{
+       
+       color: gainsboro;
+       font-weight: lighter;
+       
+   }
+   .li1{
+    color: gainsboro;
+    font-weight: lighter;
+    
+       
+   }
+   .li2{
+    color: gainsboro;
+    font-weight: lighter;
+    
+      
+
+   }
+   
+
+ 
