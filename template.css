@@ -3,13 +3,13 @@
     overflow-x: hidden;
 }
 .container-fluid{
-    background-image:url("images/pic1.jpg");
+    background-image:url("images/pic14.jpg");
     height:160%;
    background-size:contain ;
    background-position: top bottom;
 }
 .container{
-    background-image:url("images/pic1.jpg");
+    background-image:url("images/pic14.jpg");
     background-position:center;
 }
 a{
